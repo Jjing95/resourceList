@@ -20,6 +20,7 @@
 #### 10. 桌面倒计时工具：https://www.hereitis.cn/articleDetails/3668
 #### 11. 截屏录屏工具Screenpresso v2.1：https://www.hereitis.cn/articleDetails/3736
 #### 12. 图片转矢量工具Vector Magic：https://www.hereitis.cn/articleDetails/3730
+#### 13.
 
 
 ## 专业软件
@@ -49,7 +50,8 @@
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
 #### 2. Archtoolz PathWheels：https://www.hereitis.cn/articleDetails/3751
 #### 3. Marius Silaghi：https://www.hereitis.cn/articleDetails/3733
-#### 4.
+#### 4. Project Manager：https://www.hereitis.cn/articleDetails/3854
+#### 5. 
 
 
 ## PS实用插件
@@ -61,7 +63,8 @@
 #### 6. PS动作出画效果：https://www.hereitis.cn/articleDetails/3725
 #### 7. 证照大师 MAX 4.0：https://www.hereitis.cn/articleDetails/3774
 #### 8. 摄影冲光特效：https://www.hereitis.cn/articleDetails/3814
-#### 9.
+#### 9. 抠像插件：https://www.hereitis.cn/articleDetails/3853
+#### 10. 
 
 
 ## 草图大师Sketch实用插件
