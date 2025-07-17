@@ -43,7 +43,10 @@
 #### 17. CIENMA 4D：https://www.hereitis.cn/articleDetails/3811
 #### 18. Adobe Photoshop 2025 Beta v26.6便携版：https://www.hereitis.cn/articleDetails/3830
 #### 19. Adobe Illustrator 2025 v29.6.0：https://www.hereitis.cn/articleDetails/3829
-#### 20.
+#### 20. ON1 Effects：https://www.hereitis.cn/articleDetails/3855
+#### 21. PTC Creo：https://www.hereitis.cn/articleDetails/3856
+#### 22. Vantage：https://www.hereitis.cn/articleDetails/3857
+#### 23. 
 
 
 ## 3ds Max实用工具
