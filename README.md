@@ -47,7 +47,8 @@
 #### 20. ON1 Effects：https://www.hereitis.cn/articleDetails/3855
 #### 21. PTC Creo：https://www.hereitis.cn/articleDetails/3856
 #### 22. Vantage：https://www.hereitis.cn/articleDetails/3857
-#### 23. 
+#### 23. Connecter：https://www.hereitis.cn/articleDetails/3875
+#### 24. 
 
 
 ## 3ds Max实用工具
