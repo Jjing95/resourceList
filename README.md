@@ -1,17 +1,26 @@
 # 资源列表
 
-## 好玩的
+## 1.好玩的
+## 2.程序员必备开发软件
+## 3.办公必备小工具
+## 4.专业软件
+## 5.3ds Max实用工具
+## 6.PS实用插件
+## 7.草图大师Sketch实用插件
+
+
+### 好玩的
 #### 1. 最Sao包语音包：https://www.hereitis.cn/articleDetails/3864
 #### 2. 
 
-## 程序员必备开发软件
+### 程序员必备开发软件
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
 #### 2. rider: https://www.hereitis.cn/articleDetails/3384
 #### 3. idea: https://www.hereitis.cn/articleDetails/3461
 #### 4.
 
 
-## 办公必备小工具
+### 办公必备小工具
 #### 1. 网站截长屏小插件： https://www.hereitis.cn/articleDetails/3402
 #### 2. 多文件格式看图工具： https://www.hereitis.cn/articleDetails/3509
 #### 3. win命令行大全： https://www.hereitis.cn/articleDetails/3514
@@ -28,7 +37,7 @@
 #### 14. 
 
 
-## 专业软件
+### 专业软件
 #### 1. AutoCAD Architecture：https://www.hereitis.cn/articleDetails/3795
 #### 2. D5渲染器：https://www.hereitis.cn/articleDetails/3839
 #### 3. 3D Coat:https://www.hereitis.cn/articleDetails/3817
@@ -56,7 +65,7 @@
 #### 25. 
 
 
-## 3ds Max实用工具
+### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
 #### 2. Archtoolz PathWheels：https://www.hereitis.cn/articleDetails/3751
 #### 3. Marius Silaghi：https://www.hereitis.cn/articleDetails/3733
@@ -66,7 +75,7 @@
 #### 7. 
 
 
-## PS实用插件
+### PS实用插件
 #### 1. DFT Tiffen Dfx：https://www.hereitis.cn/articleDetails/3770
 #### 2. Ps插件全家桶：https://www.hereitis.cn/articleDetails/3702
 #### 3. NBP Freqsep Control 磨皮美化插件：https://www.hereitis.cn/articleDetails/3796
@@ -79,7 +88,7 @@
 #### 10. 
 
 
-## 草图大师Sketch实用插件
+### 草图大师Sketch实用插件
 #### 1. SUAPP 3.8.5.4：https://www.hereitis.cn/articleDetails/3707
 #### 2. 5D+ Library：https://www.hereitis.cn/articleDetails/3827
 #### 3. PolyCloth：https://www.hereitis.cn/articleDetails/3731
