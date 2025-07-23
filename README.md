@@ -1,17 +1,18 @@
 # 资源列表
 
-## 1.好玩的
-## 2.程序员必备开发软件
-## 3.办公必备小工具
-## 4.专业软件
-## 5.3ds Max实用工具
-## 6.PS实用插件
-## 7.草图大师Sketch实用插件
+## 1. 好玩的
+## 2. 程序员必备开发软件
+## 3. 办公必备小工具
+## 4. 专业软件
+## 5. 3ds Max实用工具
+## 6. PS实用插件
+## 7. 草图大师Sketch实用插件
 
 
 ### 好玩的
 #### 1. 最Sao包语音包：https://www.hereitis.cn/articleDetails/3864
-#### 2. 
+#### 2. 文本加密：https://www.hereitis.cn/articleDetails/3881
+#### 3. 
 
 ### 程序员必备开发软件
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
