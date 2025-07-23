@@ -52,7 +52,8 @@
 #### 21. PTC Creo：https://www.hereitis.cn/articleDetails/3856
 #### 22. Vantage：https://www.hereitis.cn/articleDetails/3857
 #### 23. Connecter：https://www.hereitis.cn/articleDetails/3875
-#### 24. 
+#### 24. SolidWorks：https://www.hereitis.cn/articleDetails/3871
+#### 25. 
 
 
 ## 3ds Max实用工具
@@ -60,7 +61,9 @@
 #### 2. Archtoolz PathWheels：https://www.hereitis.cn/articleDetails/3751
 #### 3. Marius Silaghi：https://www.hereitis.cn/articleDetails/3733
 #### 4. Project Manager：https://www.hereitis.cn/articleDetails/3854
-#### 5. 
+#### 5. Spline Cleaner：https://www.hereitis.cn/articleDetails/3874
+#### 6. Connecter：https://www.hereitis.cn/articleDetails/3875
+#### 7. 
 
 
 ## PS实用插件
@@ -84,4 +87,6 @@
 #### 5. Enscape：https://www.hereitis.cn/articleDetails/3813
 #### 6. V-Ray 7.10.01 Next：https://www.hereitis.cn/articleDetails/3773
 #### 7. SketchFX Ex 3.1.1：https://www.hereitis.cn/articleDetails/3815
-#### 8.
+#### 8. Curviloft：https://www.hereitis.cn/articleDetails/3870
+#### 9. Skp版本转换器：https://www.hereitis.cn/articleDetails/3873
+#### 10. 
