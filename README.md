@@ -75,7 +75,8 @@
 #### 4. Project Manager：https://www.hereitis.cn/articleDetails/3854
 #### 5. Spline Cleaner：https://www.hereitis.cn/articleDetails/3874
 #### 6. Connecter：https://www.hereitis.cn/articleDetails/3875
-#### 7. 
+#### 7. VRay：https://www.hereitis.cn/articleDetails/3918
+#### 8. 
 
 
 ### PS实用插件
