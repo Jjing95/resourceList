@@ -64,7 +64,8 @@
 #### 23. Connecter：https://www.hereitis.cn/articleDetails/3875
 #### 24. SolidWorks：https://www.hereitis.cn/articleDetails/3871
 #### 25. Aspen Plus 11：https://www.hereitis.cn/articleDetails/3892
-#### 26. 
+#### 26. ANSYS Products 2025 R2：https://www.hereitis.cn/articleDetails/3917
+#### 27. 
 
 
 ### 3ds Max实用工具
