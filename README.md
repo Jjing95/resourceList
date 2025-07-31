@@ -68,7 +68,8 @@
 #### 25. Aspen Plus 11：https://www.hereitis.cn/articleDetails/3892
 #### 26. ANSYS Products 2025 R2：https://www.hereitis.cn/articleDetails/3917
 #### 27. Substance 3D Stager：https://www.hereitis.cn/articleDetails/3926
-#### 28. 
+#### 28. Mastercam 2026：https://www.hereitis.cn/articleDetails/3930
+#### 29. 
 
 
 ### 3ds Max实用工具
