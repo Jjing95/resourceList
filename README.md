@@ -69,7 +69,8 @@
 #### 26. ANSYS Products 2025 R2：https://www.hereitis.cn/articleDetails/3917
 #### 27. Substance 3D Stager：https://www.hereitis.cn/articleDetails/3926
 #### 28. Mastercam 2026：https://www.hereitis.cn/articleDetails/3930
-#### 29. 
+#### 29. Blender：https://www.hereitis.cn/articleDetails/3935
+#### 30. 
 
 
 ### 3ds Max实用工具
