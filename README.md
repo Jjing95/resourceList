@@ -70,7 +70,9 @@
 #### 27. Substance 3D Stager：https://www.hereitis.cn/articleDetails/3926
 #### 28. Mastercam 2026：https://www.hereitis.cn/articleDetails/3930
 #### 29. Blender：https://www.hereitis.cn/articleDetails/3935
-#### 30. 
+#### 30. Marvelous Designer：https://www.hereitis.cn/articleDetails/3945
+#### 31. RoundCome：https://www.hereitis.cn/articleDetails/3944
+#### 32. 
 
 
 ### 3ds Max实用工具
@@ -110,4 +112,8 @@
 #### 10. Profile Builder：https://www.hereitis.cn/articleDetails/3908
 #### 11. afu321：https://www.hereitis.cn/articleDetails/3919
 #### 12. Architextures：https://www.hereitis.cn/articleDetails/3920
-#### 13.
+#### 13. Ropefall：https://www.hereitis.cn/articleDetails/3941
+#### 14. 智达云：https://www.hereitis.cn/articleDetails/3946
+#### 15. Curve scale：https://www.hereitis.cn/articleDetails/3943
+#### 16. Selection Toys：https://www.hereitis.cn/articleDetails/3942
+#### 17. 
