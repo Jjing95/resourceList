@@ -72,7 +72,9 @@
 #### 29. Blender：https://www.hereitis.cn/articleDetails/3935
 #### 30. Marvelous Designer：https://www.hereitis.cn/articleDetails/3945
 #### 31. RoundCome：https://www.hereitis.cn/articleDetails/3944
-#### 32. 
+#### 32. CAD小菜选择易插件：https://www.hereitis.cn/articleDetails/3957
+#### 33. AutoCAD Civil 3D：https://www.hereitis.cn/articleDetails/3958
+#### 34. 
 
 
 ### 3ds Max实用工具
@@ -83,7 +85,12 @@
 #### 5. Spline Cleaner：https://www.hereitis.cn/articleDetails/3874
 #### 6. Connecter：https://www.hereitis.cn/articleDetails/3875
 #### 7. VRay：https://www.hereitis.cn/articleDetails/3918
-#### 8. 
+#### 8. 3ds Max绿色：https://www.hereitis.cn/articleDetails/3953
+#### 9. Corona 13：https://www.hereitis.cn/articleDetails/3954
+#### 10. PSOFT Pencil：https://www.hereitis.cn/articleDetails/3955
+#### 11. Aluminum Window Generator 2.0：https://www.hereitis.cn/articleDetails/3956
+#### 12. XMeshMX：https://www.hereitis.cn/articleDetails/3959
+#### 13. 
 
 
 ### PS实用插件
