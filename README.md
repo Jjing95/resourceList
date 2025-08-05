@@ -20,7 +20,9 @@
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
 #### 2. rider: https://www.hereitis.cn/articleDetails/3384
 #### 3. idea: https://www.hereitis.cn/articleDetails/3461
-#### 4.
+#### 4. LabVIEW：https://www.hereitis.cn/articleDetails/3974
+#### 5. Eclipse：https://www.hereitis.cn/articleDetails/3971
+#### 6. 
 
 
 ### 办公必备小工具
