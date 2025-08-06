@@ -93,7 +93,8 @@
 #### 10. PSOFT Pencil：https://www.hereitis.cn/articleDetails/3955
 #### 11. Aluminum Window Generator 2.0：https://www.hereitis.cn/articleDetails/3956
 #### 12. XMeshMX：https://www.hereitis.cn/articleDetails/3959
-#### 13. 
+#### 13. StokeMX：https://www.hereitis.cn/articleDetails/3966
+#### 14. 
 
 
 ### PS实用插件
