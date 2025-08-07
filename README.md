@@ -77,7 +77,8 @@
 #### 31. RoundCome：https://www.hereitis.cn/articleDetails/3944
 #### 32. CAD小菜选择易插件：https://www.hereitis.cn/articleDetails/3957
 #### 33. AutoCAD Civil 3D：https://www.hereitis.cn/articleDetails/3958
-#### 34. 
+#### 34. Lingo：https://www.hereitis.cn/articleDetails/3979
+#### 35. 
 
 
 ### 3ds Max实用工具
