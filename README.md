@@ -83,7 +83,8 @@
 #### 37. AutoCAD Plant 3D 2022：https://www.hereitis.cn/articleDetails/3987
 #### 38. BatchPlot：https://www.hereitis.cn/articleDetails/3984
 #### 39. CAD迷你建筑工具箱：https://www.hereitis.cn/articleDetails/3983
-#### 40. 
+#### 40. Altium Designer: https://www.hereitis.cn/articleDetails/4005
+####
 
 
 ### 3ds Max实用工具
