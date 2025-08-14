@@ -7,6 +7,7 @@
 ## 5. 3ds Max实用工具
 ## 6. PS实用插件
 ## 7. 草图大师Sketch实用插件
+## 8. CDR插件
 
 
 ### 好玩的
@@ -135,3 +136,9 @@
 #### 15. Curve scale：https://www.hereitis.cn/articleDetails/3943
 #### 16. Selection Toys：https://www.hereitis.cn/articleDetails/3942
 #### 17. 
+
+### CDR插件
+#### 1. YmxkDoc: https://www.hereitis.cn/articleDetails/4012
+#### 2. CDR工具箱：https://www.hereitis.cn/articleDetails/4013
+#### 3. YG插件：https://www.hereitis.cn/articleDetails/4014
+#### 4. 
