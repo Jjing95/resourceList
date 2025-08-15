@@ -85,7 +85,10 @@
 #### 38. BatchPlot：https://www.hereitis.cn/articleDetails/3984
 #### 39. CAD迷你建筑工具箱：https://www.hereitis.cn/articleDetails/3983
 #### 40. Altium Designer: https://www.hereitis.cn/articleDetails/4005
-####
+#### 41. Adobe InCopy CC2015：https://www.hereitis.cn/articleDetails/4029
+#### 42. GraphPad Prism 10：https://www.hereitis.cn/articleDetails/4030
+#### 43. Vero ALPHACAM 2023：https://www.hereitis.cn/articleDetails/4027
+#### 44. Adobe InCopy 2025：https://www.hereitis.cn/articleDetails/4026
 
 
 ### 3ds Max实用工具
