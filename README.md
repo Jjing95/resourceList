@@ -89,6 +89,7 @@
 #### 42. GraphPad Prism 10：https://www.hereitis.cn/articleDetails/4030
 #### 43. Vero ALPHACAM 2023：https://www.hereitis.cn/articleDetails/4027
 #### 44. Adobe InCopy 2025：https://www.hereitis.cn/articleDetails/4026
+#### 45. MedCalc: https://www.hereitis.cn/articleDetails/4056
 
 
 ### 3ds Max实用工具
