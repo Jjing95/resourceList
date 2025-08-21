@@ -90,7 +90,8 @@
 #### 43. Vero ALPHACAM 2023：https://www.hereitis.cn/articleDetails/4027
 #### 44. Adobe InCopy 2025：https://www.hereitis.cn/articleDetails/4026
 #### 45. MedCalc: https://www.hereitis.cn/articleDetails/4056
-
+#### 46. DAZ Studio：https://www.hereitis.cn/articleDetails/4059
+#### 47. 
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
