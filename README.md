@@ -94,7 +94,8 @@
 #### 47. ZBrush 2025.3.0：https://www.hereitis.cn/articleDetails/4060
 #### 48. Autodesk Powermill Ultimate 2025: https://www.hereitis.cn/articleDetails/4063
 #### 49. Maplesoft Maple：https://www.hereitis.cn/articleDetails/4064
-#### 50.
+#### 50. MATLAB R2024a：https://www.hereitis.cn/articleDetails/4069
+#### 51. 
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
