@@ -92,7 +92,8 @@
 #### 45. MedCalc: https://www.hereitis.cn/articleDetails/4056
 #### 46. DAZ Studio：https://www.hereitis.cn/articleDetails/4059
 #### 47. ZBrush 2025.3.0：https://www.hereitis.cn/articleDetails/4060
-#### 48. 
+#### 48. Autodesk Powermill Ultimate 2025: https://www.hereitis.cn/articleDetails/4063
+#### 49. 
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
