@@ -15,7 +15,7 @@
 #### 2. 文本加密：https://www.hereitis.cn/articleDetails/3881
 #### 3. 超萌桌宠：https://www.hereitis.cn/articleDetails/3931
 #### 4. 女神保卫战：https://www.hereitis.cn/articleDetails/3933
-#### 5. 
+#### 5. 植物大战僵尸金铲铲版：https://www.hereitis.cn/articleDetails/4076
 
 ### 程序员必备开发软件
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
