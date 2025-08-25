@@ -24,7 +24,7 @@
 #### 3. idea: https://www.hereitis.cn/articleDetails/3461
 #### 4. LabVIEW：https://www.hereitis.cn/articleDetails/3974
 #### 5. Eclipse：https://www.hereitis.cn/articleDetails/3971
-#### 6. 
+#### 6. PhpStorm：https://www.hereitis.cn/articleDetails/4085
 
 
 ### 办公必备小工具
@@ -96,7 +96,10 @@
 #### 48. Autodesk Powermill Ultimate 2025: https://www.hereitis.cn/articleDetails/4063
 #### 49. Maplesoft Maple：https://www.hereitis.cn/articleDetails/4064
 #### 50. MATLAB R2024a：https://www.hereitis.cn/articleDetails/4069
-#### 51. 
+#### 51. Capture One 23: https://www.hereitis.cn/articleDetails/4081
+#### 52. MacroMedia FreeHand 11：https://www.hereitis.cn/articleDetails/4082
+#### 53. ChemDraw 23专业版：https://www.hereitis.cn/articleDetails/4083
+#### 54. CAD迷你画图 2024R2：https://www.hereitis.cn/articleDetails/4084
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
