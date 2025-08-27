@@ -17,6 +17,8 @@
 #### 4. 女神保卫战：https://www.hereitis.cn/articleDetails/3933
 #### 5. 植物大战僵尸金铲铲版：https://www.hereitis.cn/articleDetails/4076
 #### 6. 植物大战僵尸三角洲版：https://www.hereitis.cn/articleDetails/4072
+#### 7. 我的世界mac中文版: https://www.hereitis.cn/articleDetails/4109
+#### 8. 三国志11威力加强版 for mac版: https://www.hereitis.cn/articleDetails/4106
 
 ### 程序员必备开发软件
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
@@ -100,6 +102,11 @@
 #### 52. MacroMedia FreeHand 11：https://www.hereitis.cn/articleDetails/4082
 #### 53. ChemDraw 23专业版：https://www.hereitis.cn/articleDetails/4083
 #### 54. CAD迷你画图 2024R2：https://www.hereitis.cn/articleDetails/4084
+#### 55. final cut pro中文激活版: https://www.hereitis.cn/articleDetails/4105
+#### 56. Autodesk Maya 2026.2简体中文版: https://www.hereitis.cn/articleDetails/4102
+#### 57. RizomUV 2025完整版: https://www.hereitis.cn/articleDetails/4101
+#### 58. Marmoset Toolbag 5.02中文版: https://www.hereitis.cn/articleDetails/4095
+#### 59. 
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
@@ -115,7 +122,8 @@
 #### 11. Aluminum Window Generator 2.0：https://www.hereitis.cn/articleDetails/3956
 #### 12. XMeshMX：https://www.hereitis.cn/articleDetails/3959
 #### 13. StokeMX：https://www.hereitis.cn/articleDetails/3966
-#### 14. 
+#### 14. V-Ray 7.20.01 for 3ds Max 2020-2026简体中文版: https://www.hereitis.cn/articleDetails/4096
+#### 15. 
 
 
 ### PS实用插件
