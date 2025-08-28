@@ -44,7 +44,7 @@
 #### 12. 图片转矢量工具Vector Magic：https://www.hereitis.cn/articleDetails/3730
 #### 13. 图像照片处理软件Paint.NET：https://www.hereitis.cn/articleDetails/3862
 #### 14. 7-zip：https://www.hereitis.cn/soft/7z
-#### 15.
+#### 15. Bandicam 2025：https://www.hereitis.cn/articleDetails/4115
 
 
 ### 专业软件
