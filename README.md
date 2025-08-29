@@ -20,6 +20,7 @@
 #### 7. 我的世界mac中文版: https://www.hereitis.cn/articleDetails/4109
 #### 8. 三国志11威力加强版 for mac版: https://www.hereitis.cn/articleDetails/4106
 
+
 ### 程序员必备开发软件
 #### 1. webstorm: https://www.hereitis.cn/articleDetails/3382
 #### 2. rider: https://www.hereitis.cn/articleDetails/3384
@@ -106,7 +107,8 @@
 #### 56. Autodesk Maya 2026.2简体中文版: https://www.hereitis.cn/articleDetails/4102
 #### 57. RizomUV 2025完整版: https://www.hereitis.cn/articleDetails/4101
 #### 58. Marmoset Toolbag 5.02中文版: https://www.hereitis.cn/articleDetails/4095
-#### 59. 
+#### 59. res-downloader：https://www.hereitis.cn/articleDetails/4125
+
 
 ### 3ds Max实用工具
 #### 1. Retopology Tools：https://www.hereitis.cn/articleDetails/3828
