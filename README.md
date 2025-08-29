@@ -108,6 +108,7 @@
 #### 57. RizomUV 2025完整版: https://www.hereitis.cn/articleDetails/4101
 #### 58. Marmoset Toolbag 5.02中文版: https://www.hereitis.cn/articleDetails/4095
 #### 59. res-downloader：https://www.hereitis.cn/articleDetails/4125
+#### 60. 新榜小豆芽：https://www.hereitis.cn/articleDetails/4127
 
 
 ### 3ds Max实用工具
