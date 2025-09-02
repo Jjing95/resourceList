@@ -28,6 +28,7 @@
 #### 4. LabVIEW：https://www.hereitis.cn/articleDetails/3974
 #### 5. Eclipse：https://www.hereitis.cn/articleDetails/3971
 #### 6. PhpStorm：https://www.hereitis.cn/articleDetails/4085
+#### 7. Anaconda3 2025：https://www.hereitis.cn/articleDetails/4134
 
 
 ### 办公必备小工具
@@ -109,6 +110,10 @@
 #### 58. Marmoset Toolbag 5.02中文版: https://www.hereitis.cn/articleDetails/4095
 #### 59. res-downloader：https://www.hereitis.cn/articleDetails/4125
 #### 60. 新榜小豆芽：https://www.hereitis.cn/articleDetails/4127
+#### 61. Photoshop缩略图补丁插件3.8.0.96：https://www.hereitis.cn/articleDetails/4133
+#### 62. 中望CAD机械版2026：https://www.hereitis.cn/articleDetails/4132
+#### 63. PS插件:AKVIS OilPaint v8.0激活版：https://www.hereitis.cn/articleDetails/4131
+
 
 
 ### 3ds Max实用工具
@@ -159,7 +164,9 @@
 #### 14. 智达云：https://www.hereitis.cn/articleDetails/3946
 #### 15. Curve scale：https://www.hereitis.cn/articleDetails/3943
 #### 16. Selection Toys：https://www.hereitis.cn/articleDetails/3942
-#### 17. 
+#### 17. 草图大师SketchUp Pro 2025：https://www.hereitis.cn/articleDetails/4130
+
+
 
 ### CDR插件
 #### 1. YmxkDoc: https://www.hereitis.cn/articleDetails/4012
