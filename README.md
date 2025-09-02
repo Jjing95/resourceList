@@ -110,9 +110,8 @@
 #### 58. Marmoset Toolbag 5.02中文版: https://www.hereitis.cn/articleDetails/4095
 #### 59. res-downloader：https://www.hereitis.cn/articleDetails/4125
 #### 60. 新榜小豆芽：https://www.hereitis.cn/articleDetails/4127
-#### 61. Photoshop缩略图补丁插件3.8.0.96：https://www.hereitis.cn/articleDetails/4133
-#### 62. 中望CAD机械版2026：https://www.hereitis.cn/articleDetails/4132
-#### 63. PS插件:AKVIS OilPaint v8.0激活版：https://www.hereitis.cn/articleDetails/4131
+#### 61. 中望CAD机械版2026：https://www.hereitis.cn/articleDetails/4132
+#### 62. 
 
 
 
@@ -144,7 +143,8 @@
 #### 7. 证照大师 MAX 4.0：https://www.hereitis.cn/articleDetails/3774
 #### 8. 摄影冲光特效：https://www.hereitis.cn/articleDetails/3814
 #### 9. 抠像插件：https://www.hereitis.cn/articleDetails/3853
-#### 10. 
+#### 10. PS插件:AKVIS OilPaint v8.0激活版：https://www.hereitis.cn/articleDetails/4131
+#### 11. Photoshop缩略图补丁插件3.8.0.96：https://www.hereitis.cn/articleDetails/4133
 
 
 ### 草图大师Sketch实用插件
