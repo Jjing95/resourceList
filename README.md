@@ -111,7 +111,10 @@
 #### 59. res-downloader：https://www.hereitis.cn/articleDetails/4125
 #### 60. 新榜小豆芽：https://www.hereitis.cn/articleDetails/4127
 #### 61. 中望CAD机械版2026：https://www.hereitis.cn/articleDetails/4132
-#### 62. 
+#### 62. Autodesk Inventor 2026专业简体中文版：https://www.hereitis.cn/articleDetails/4149
+#### 63. Autodesk Navisworks Manage 2026：https://www.hereitis.cn/articleDetails/4145
+#### 64. Mastercam 2026(CAD/CAM软件)：https://www.hereitis.cn/articleDetails/4140
+
 
 
 
@@ -131,6 +134,17 @@
 #### 13. StokeMX：https://www.hereitis.cn/articleDetails/3966
 #### 14. V-Ray 7.20.01 for 3ds Max 2020-2026简体中文版: https://www.hereitis.cn/articleDetails/4096
 #### 15. Dome Maker: https://www.hereitis.cn/articleDetails/3916
+#### 16. Autodesk 3ds Max 2026简体中文版：https://www.hereitis.cn/articleDetails/4155
+#### 17. Showcaser V1.02：https://www.hereitis.cn/articleDetails/4154
+#### 18. SmartRefs 1.10.01：https://www.hereitis.cn/articleDetails/4153
+#### 19. Phoenix 5.24.00：https://www.hereitis.cn/articleDetails/4152
+#### 20. PSOFT Pencil v4.2.6：https://www.hereitis.cn/articleDetails/4150
+#### 21. ArchVizTools Generators Collection：https://www.hereitis.cn/articleDetails/4147
+#### 22. Autodesk 3Dmax 2026.1简体中文版：https://www.hereitis.cn/articleDetails/4146
+#### 23. SolidAngle MAXtoA Arnold v5.8.1：https://www.hereitis.cn/articleDetails/4143
+
+
+
 
 
 ### PS实用插件
@@ -145,6 +159,7 @@
 #### 9. 抠像插件：https://www.hereitis.cn/articleDetails/3853
 #### 10. PS插件:AKVIS OilPaint v8.0激活版：https://www.hereitis.cn/articleDetails/4131
 #### 11. Photoshop缩略图补丁插件3.8.0.96：https://www.hereitis.cn/articleDetails/4133
+
 
 
 ### 草图大师Sketch实用插件
