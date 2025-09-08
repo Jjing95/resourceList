@@ -29,6 +29,7 @@
 #### 5. Eclipse：https://www.hereitis.cn/articleDetails/3971
 #### 6. PhpStorm：https://www.hereitis.cn/articleDetails/4085
 #### 7. Anaconda3 2025：https://www.hereitis.cn/articleDetails/4134
+#### 8. Android Studio 2025.1.1：https://www.hereitis.cn/articleDetails/4165
 
 
 ### 办公必备小工具
@@ -114,6 +115,8 @@
 #### 62. Autodesk Inventor 2026专业简体中文版：https://www.hereitis.cn/articleDetails/4149
 #### 63. Autodesk Navisworks Manage 2026：https://www.hereitis.cn/articleDetails/4145
 #### 64. Mastercam 2026(CAD/CAM软件)：https://www.hereitis.cn/articleDetails/4140
+#### 65. AIDA64 Network Audit：https://www.hereitis.cn/articleDetails/4167
+#### 66. Aiarty Image Enhancer 2.6：https://www.hereitis.cn/articleDetails/4166
 
 
 
