@@ -10,6 +10,9 @@
 ## 8. CDR插件
 
 
+
+
+
 ### 好玩的
 #### 1. 最Sao包语音包：https://www.hereitis.cn/articleDetails/3864
 #### 2. 文本加密：https://www.hereitis.cn/articleDetails/3881
@@ -19,6 +22,10 @@
 #### 6. 植物大战僵尸三角洲版：https://www.hereitis.cn/articleDetails/4072
 #### 7. 我的世界mac中文版: https://www.hereitis.cn/articleDetails/4109
 #### 8. 三国志11威力加强版 for mac版: https://www.hereitis.cn/articleDetails/4106
+#### 9.
+
+
+
 
 
 ### 程序员必备开发软件
@@ -30,6 +37,8 @@
 #### 6. PhpStorm：https://www.hereitis.cn/articleDetails/4085
 #### 7. Anaconda3 2025：https://www.hereitis.cn/articleDetails/4134
 #### 8. Android Studio 2025.1.1：https://www.hereitis.cn/articleDetails/4165
+
+
 
 
 ### 办公必备小工具
@@ -48,6 +57,9 @@
 #### 13. 图像照片处理软件Paint.NET：https://www.hereitis.cn/articleDetails/3862
 #### 14. 7-zip：https://www.hereitis.cn/soft/7z
 #### 15. Bandicam 2025：https://www.hereitis.cn/articleDetails/4115
+#### 16. Gilisoft AI Toolkit：https://www.hereitis.cn/articleDetails/4169
+
+
 
 
 ### 专业软件
@@ -165,6 +177,8 @@
 
 
 
+
+
 ### 草图大师Sketch实用插件
 #### 1. SUAPP 3.8.5.4：https://www.hereitis.cn/articleDetails/3707
 #### 2. 5D+ Library：https://www.hereitis.cn/articleDetails/3827
@@ -183,6 +197,8 @@
 #### 15. Curve scale：https://www.hereitis.cn/articleDetails/3943
 #### 16. Selection Toys：https://www.hereitis.cn/articleDetails/3942
 #### 17. 草图大师SketchUp Pro 2025：https://www.hereitis.cn/articleDetails/4130
+
+
 
 
 
