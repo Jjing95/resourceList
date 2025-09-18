@@ -41,6 +41,8 @@
 
 
 
+
+
 ### 办公必备小工具
 #### 1. 网站截长屏小插件： https://www.hereitis.cn/articleDetails/3402
 #### 2. 多文件格式看图工具： https://www.hereitis.cn/articleDetails/3509
@@ -58,6 +60,8 @@
 #### 14. 7-zip：https://www.hereitis.cn/soft/7z
 #### 15. Bandicam 2025：https://www.hereitis.cn/articleDetails/4115
 #### 16. Gilisoft AI Toolkit：https://www.hereitis.cn/articleDetails/4169
+
+
 
 
 
@@ -129,6 +133,13 @@
 #### 64. Mastercam 2026(CAD/CAM软件)：https://www.hereitis.cn/articleDetails/4140
 #### 65. AIDA64 Network Audit：https://www.hereitis.cn/articleDetails/4167
 #### 66. Aiarty Image Enhancer 2.6：https://www.hereitis.cn/articleDetails/4166
+#### 67. 犀牛Rhino 8.10：https://www.hereitis.cn/articleDetails/4200
+#### 68. Materials Studio 2024：https://www.hereitis.cn/articleDetails/4197
+#### 69. AIDA64 Engineer：https://www.hereitis.cn/articleDetails/4198
+#### 70. Rhinoceros 8.19：https://www.hereitis.cn/articleDetails/4199
+
+
+
 
 
 
@@ -157,6 +168,7 @@
 #### 21. ArchVizTools Generators Collection：https://www.hereitis.cn/articleDetails/4147
 #### 22. Autodesk 3Dmax 2026.1简体中文版：https://www.hereitis.cn/articleDetails/4146
 #### 23. SolidAngle MAXtoA Arnold v5.8.1：https://www.hereitis.cn/articleDetails/4143
+
 
 
 
