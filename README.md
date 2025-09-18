@@ -137,6 +137,7 @@
 #### 68. Materials Studio 2024：https://www.hereitis.cn/articleDetails/4197
 #### 69. AIDA64 Engineer：https://www.hereitis.cn/articleDetails/4198
 #### 70. Rhinoceros 8.19：https://www.hereitis.cn/articleDetails/4199
+#### 71. DxO PhotoLab：https://www.hereitis.cn/articleDetails/4192
 
 
 
