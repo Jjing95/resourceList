@@ -60,6 +60,8 @@
 #### 14. 7-zip：https://www.hereitis.cn/soft/7z
 #### 15. Bandicam 2025：https://www.hereitis.cn/articleDetails/4115
 #### 16. Gilisoft AI Toolkit：https://www.hereitis.cn/articleDetails/4169
+#### 17. EaseUS Partition Master 易我分区大师：https://www.hereitis.cn/articleDetails/4216
+#### 18. Typora 1.10.8：https://www.hereitis.cn/articleDetails/4211
 
 
 
@@ -138,7 +140,16 @@
 #### 69. AIDA64 Engineer：https://www.hereitis.cn/articleDetails/4198
 #### 70. Rhinoceros 8.19：https://www.hereitis.cn/articleDetails/4199
 #### 71. DxO PhotoLab：https://www.hereitis.cn/articleDetails/4192
-
+#### 72. midas Gen 2019：https://www.hereitis.cn/articleDetails/4219
+#### 73. Tekla Structures 2025：https://www.hereitis.cn/articleDetails/4218
+#### 74. Macrorit Partition Expert：https://www.hereitis.cn/articleDetails/4217
+#### 75. PiXYZ Studio 2025：https://www.hereitis.cn/articleDetails/4215
+#### 76. PCL Geomatica 2018：https://www.hereitis.cn/articleDetails/4213
+#### 77. ANSYS Electronics 2025 R1：https://www.hereitis.cn/articleDetails/4212
+#### 78. PCL Geomatica 2017：https://www.hereitis.cn/articleDetails/4209
+#### 79. 达芬奇 DaVinci Resolve Studio v20.0.49：https://www.hereitis.cn/articleDetails/4208
+#### 80. NCSS 2025：https://www.hereitis.cn/articleDetails/4206
+#### 81. midas Gen 2021：https://www.hereitis.cn/articleDetails/4205
 
 
 
