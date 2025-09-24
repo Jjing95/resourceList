@@ -150,6 +150,8 @@
 #### 79. 达芬奇 DaVinci Resolve Studio v20.0.49：https://www.hereitis.cn/articleDetails/4208
 #### 80. NCSS 2025：https://www.hereitis.cn/articleDetails/4206
 #### 81. midas Gen 2021：https://www.hereitis.cn/articleDetails/4205
+#### 82. PASS 2025：https://www.hereitis.cn/articleDetails/4228
+#### 83. Keil uvision5 MDK 5.42：https://www.hereitis.cn/articleDetails/4228
 
 
 
