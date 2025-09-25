@@ -152,7 +152,7 @@
 #### 81. midas Gen 2021：https://www.hereitis.cn/articleDetails/4205
 #### 82. PASS 2025：https://www.hereitis.cn/articleDetails/4228
 #### 83. Keil uVision5 MDK 5.42：https://www.hereitis.cn/articleDetails/4229
-
+#### 84. Geometric Glovius 6.0.0：https://www.hereitis.cn/articleDetails/4232
 
 
 
