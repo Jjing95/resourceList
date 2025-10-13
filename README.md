@@ -153,6 +153,14 @@
 #### 82. PASS 2025：https://www.hereitis.cn/articleDetails/4228
 #### 83. Keil uVision5 MDK 5.42：https://www.hereitis.cn/articleDetails/4229
 #### 84. Geometric Glovius 6.0.0：https://www.hereitis.cn/articleDetails/4232
+#### 85. Bitmap2material 3.1.3：https://www.hereitis.cn/articleDetails/4281
+#### 86. V-Ray 7.00.02 for Maya 2022-2025：https://www.hereitis.cn/articleDetails/4280
+#### 87. TopoGun 3.0：https://www.hereitis.cn/articleDetails/4279
+#### 88. 迅捷视频转换器：https://www.hereitis.cn/articleDetails/4278
+#### 89. VRay 6.1 for Revit 2019-2024：https://www.hereitis.cn/articleDetails/4276
+#### 90. VRay 6.1 for Rhino 6-8：https://www.hereitis.cn/articleDetails/4275
+
+
 
 
 
