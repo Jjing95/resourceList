@@ -23,6 +23,8 @@
 #### 7. 我的世界mac中文版: https://www.hereitis.cn/articleDetails/4109
 #### 8. 三国志11威力加强版 for mac版: https://www.hereitis.cn/articleDetails/4106
 #### 9. 人类一败涂地mac版：https://www.hereitis.cn/articleDetails/4283
+#### 10. 摸鱼屏保：https://www.hereitis.cn/articleDetails/4286
+
 
 
 
