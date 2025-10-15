@@ -39,6 +39,7 @@
 #### 6. PhpStorm：https://www.hereitis.cn/articleDetails/4085
 #### 7. Anaconda3 2025：https://www.hereitis.cn/articleDetails/4134
 #### 8. Android Studio 2025.1.1：https://www.hereitis.cn/articleDetails/4165
+#### 9. Navicat Premium v17: https://www.hereitis.cn/articleDetails/4292
 
 
 
