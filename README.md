@@ -66,6 +66,7 @@
 #### 17. EaseUS Partition Master 易我分区大师：https://www.hereitis.cn/articleDetails/4216
 #### 18. Typora 1.10.8：https://www.hereitis.cn/articleDetails/4211
 #### 19. 挖象浏览器：https://www.hereitis.cn/articleDetails/4294
+#### 20. 剪映全平台破解版：https://www.hereitis.cn/soft/jianyin
 
 
 
