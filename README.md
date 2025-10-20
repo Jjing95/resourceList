@@ -24,6 +24,7 @@
 #### 8. 三国志11威力加强版 for mac版: https://www.hereitis.cn/articleDetails/4106
 #### 9. 人类一败涂地mac版：https://www.hereitis.cn/articleDetails/4283
 #### 10. 摸鱼屏保：https://www.hereitis.cn/articleDetails/4286
+#### 11. 摸鱼线稿打印大全：https://www.hereitis.cn/articleDetails/4303
 
 
 
