@@ -41,6 +41,7 @@
 #### 7. Anaconda3 2025：https://www.hereitis.cn/articleDetails/4134
 #### 8. Android Studio 2025.1.1：https://www.hereitis.cn/articleDetails/4165
 #### 9. Navicat Premium v17: https://www.hereitis.cn/articleDetails/4292
+#### 10. Navicat Premium WIN/MAC: https://www.hereitis.cn/articleDetails/4310
 
 
 
@@ -167,7 +168,8 @@
 #### 90. VRay 6.1 for Rhino 6-8：https://www.hereitis.cn/articleDetails/4275
 #### 91. SIMATIC WinCC V8.1：https://www.hereitis.cn/articleDetails/4291
 #### 92. ZBrush 4R5：https://www.hereitis.cn/articleDetails/4304
-
+#### 93. ANSYS EMA3D 2025 R2：https://www.hereitis.cn/articleDetails/4306
+#### 94. 魔镜VIP插件：https://www.hereitis.cn/articleDetails/4305
 
 
 
