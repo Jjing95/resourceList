@@ -42,7 +42,7 @@
 #### 8. Android Studio 2025.1.1：https://www.hereitis.cn/articleDetails/4165
 #### 9. Navicat Premium v17: https://www.hereitis.cn/articleDetails/4292
 #### 10. Navicat Premium WIN/MAC: https://www.hereitis.cn/articleDetails/4310
-
+#### 11. 看报软件 v1.0：https://www.hereitis.cn/articleDetails/4317
 
 
 
