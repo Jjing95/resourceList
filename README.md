@@ -171,6 +171,7 @@
 #### 93. ANSYS EMA3D 2025 R2：https://www.hereitis.cn/articleDetails/4306
 #### 94. 魔镜VIP插件：https://www.hereitis.cn/articleDetails/4305
 #### 95. Pix4Dmapper：https://www.hereitis.cn/soft/pix
+#### 96. PS2026破解版：https://www.hereitis.cn/articleDetails/4340
 
 
 
