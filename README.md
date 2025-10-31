@@ -201,6 +201,7 @@
 #### 21. ArchVizTools Generators Collection：https://www.hereitis.cn/articleDetails/4147
 #### 22. Autodesk 3Dmax 2026.1简体中文版：https://www.hereitis.cn/articleDetails/4146
 #### 23. SolidAngle MAXtoA Arnold v5.8.1：https://www.hereitis.cn/articleDetails/4143
+#### 24. SmartAnim v1.00.03：https://www.hereitis.cn/articleDetails/4333
 
 
 
