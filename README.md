@@ -173,6 +173,15 @@
 #### 95. Pix4Dmapper：https://www.hereitis.cn/soft/pix
 #### 96. PS2026破解版：https://www.hereitis.cn/articleDetails/4340
 #### 97. Adobe Lightroom Classic 2026：https://www.hereitis.cn/articleDetails/4339
+#### 98. Photoshop 2026：https://www.hereitis.cn/articleDetails/4338
+#### 99. Adobe Bridge 2026 解锁版 Win/Mac：https://www.hereitis.cn/articleDetails/4343
+#### 100. Adobe Camera Raw 2026：https://www.hereitis.cn/articleDetails/4347
+#### 101. Adobe Photoshop Elements 2026：https://www.hereitis.cn/articleDetails/4348
+#### 102. Adobe Illustrator 2026 激活版 Win/Mac：https://www.hereitis.cn/articleDetails/4351
+#### 103. Adobe GenP：https://www.hereitis.cn/articleDetails/4353
+
+
+
 
 
 
