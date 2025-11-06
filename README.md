@@ -179,6 +179,7 @@
 #### 101. Adobe Photoshop Elements 2026：https://www.hereitis.cn/articleDetails/4348
 #### 102. Adobe Illustrator 2026 激活版 Win/Mac：https://www.hereitis.cn/articleDetails/4351
 #### 103. Adobe GenP：https://www.hereitis.cn/articleDetails/4353
+#### 104. Adobe Photoshop 2026 MAC：https://www.hereitis.cn/articleDetails/4361
 
 
 
