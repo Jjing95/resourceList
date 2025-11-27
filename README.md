@@ -43,6 +43,7 @@
 #### 9. Navicat Premium v17: https://www.hereitis.cn/articleDetails/4292
 #### 10. Navicat Premium WIN/MAC: https://www.hereitis.cn/articleDetails/4310
 #### 11. 看报软件 v1.0：https://www.hereitis.cn/articleDetails/4317
+#### 12. tablePlus 5：https://www.hereitis.cn/soft/tableplus5
 
 
 
@@ -69,6 +70,7 @@
 #### 18. Typora 1.10.8：https://www.hereitis.cn/articleDetails/4211
 #### 19. 挖象浏览器：https://www.hereitis.cn/articleDetails/4294
 #### 20. 剪映全平台破解版：https://www.hereitis.cn/soft/jianyin
+#### 21. WonderFox 视频格式转换: https://www.hereitis.cn/articleDetails/4384
 
 
 
