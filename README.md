@@ -257,6 +257,7 @@
 #### 15. Curve scale：https://www.hereitis.cn/articleDetails/3943
 #### 16. Selection Toys：https://www.hereitis.cn/articleDetails/3942
 #### 17. 草图大师SketchUp Pro 2025：https://www.hereitis.cn/articleDetails/4130
+#### 18. Solar North v2.0.0 (太阳北极)：https://www.hereitis.cn/articleDetails/4385
 
 
 
