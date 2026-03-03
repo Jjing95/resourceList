@@ -72,7 +72,7 @@
 #### 19. 挖象浏览器：https://www.hereitis.cn/articleDetails/4294
 #### 20. 剪映全平台破解版：https://www.hereitis.cn/soft/jianyin
 #### 21. WonderFox 视频格式转换: https://www.hereitis.cn/articleDetails/4384
-
+#### 22. HitPaw Watermark Remover：
 
 
 
