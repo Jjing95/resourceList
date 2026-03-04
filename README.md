@@ -184,6 +184,7 @@
 #### 103. Adobe GenP：https://www.hereitis.cn/articleDetails/4353
 #### 104. Adobe Photoshop 2026 MAC：https://www.hereitis.cn/articleDetails/4361
 #### 105. Blender插件Half Knife：https://www.hereitis.cn/articleDetails/4402
+#### 106. Adobe Lightroom Classic 2026 直装版：https://www.hereitis.cn/articleDetails/4418
 
 
 
