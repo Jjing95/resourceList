@@ -185,6 +185,9 @@
 #### 104. Adobe Photoshop 2026 MAC：https://www.hereitis.cn/articleDetails/4361
 #### 105. Blender插件Half Knife：https://www.hereitis.cn/articleDetails/4402
 #### 106. Adobe Lightroom Classic 2026 直装版：https://www.hereitis.cn/articleDetails/4418
+#### 107. SolidWorks Premium 2026 SP1.1: https://www.hereitis.cn/articleDetails/4448
+#### 108. Capture One Pro_Enterprise 16.7：https://www.hereitis.cn/articleDetails/4447
+
 
 
 
