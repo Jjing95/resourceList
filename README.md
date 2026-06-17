@@ -190,7 +190,7 @@
 #### 109. Adobe Bridge 2026: https://www.hereitis.cn/articleDetails/4485
 #### 110. AdskNLM v20250402一键激活Autodesk（支持2020-2027）：https://www.hereitis.cn/articleDetails/4487
 #### 111. ZBrush 2026: https://www.hereitis.cn/articleDetails/4497
-
+#### 112. SolidWorks Premium 2026 SP2.1: ：https://www.hereitis.cn/articleDetails/4494
 
 
 
